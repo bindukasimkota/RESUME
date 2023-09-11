@@ -1,0 +1,128 @@
+ *{
+    margin-left:10px;
+} 
+
+/* Name */
+h1{
+    font-weight:700;
+}
+
+/* Email and phone number */
+span{
+    color:blue;
+}
+
+/* Underline mail */
+u{
+    color:blueviolet;
+}
+
+/* Horizontal Tag */
+hr{
+    color:blue;
+    border:solid;
+}
+
+/* Career objective */
+.bindu{
+    color:blue;
+    text-decoration: underline;
+}
+#sai{
+    font-size:20px;
+    color:black;
+    font-weight:500;
+}
+
+
+/* Educational details */
+.sree{
+    text-decoration: underline;
+    color:blue;
+}
+table{
+    text-align:center;
+    font-weight:500;
+}
+
+
+/* Skills */
+.pink{
+    text-decoration: underline;
+    color:blue;
+}
+#yellow{
+    font-weight:700;
+    font-size:20px;
+}
+.third{
+    font-size:18px;
+}
+#blue{
+    font-size:20px;
+    font-weight:700;
+}
+.fourth{
+    font-size: 18px;
+}
+.purple{
+    font-size:20px;
+    font-weight:700;
+}
+.fifth{
+    font-size: 18px;
+}
+.rainbow{
+    font-size: 20px;
+    font-weight: 700;
+}
+.sixth{
+    font-size: 18px;
+}
+
+/* Project */
+#code{
+    text-decoration:underline;
+    color:blue;
+}
+.peace{
+    font-size:20px;
+    font-weight:500;
+}
+
+/* strengths */
+.hai{
+    text-decoration: underline;
+    color:blue;
+}
+.pen{
+    font-size:20px;
+    font-weight: 500;
+}
+.book{
+    font-size:20px;
+    font-weight: 500;
+}
+
+
+/* Personal info */
+#gold{
+    text-decoration: underline;
+    color: blue;
+
+}
+p{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+/* declaration */
+#brown{
+    text-decoration: underline;
+    color: blue;
+}
+#second{
+    font-size:20px;
+    font-weight: 500;
+}
